@@ -1,4 +1,4 @@
-# python
+# python.py
 num=float(input("Enter a number "))
 if num>0:
    print(postive number)
